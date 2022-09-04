@@ -1,0 +1,9 @@
+train: ../yolo_dataset/images/train/ 
+val:  ../yolo_dataset/images/val/
+test: ../yolo_dataset/images/test/
+
+# number of classes
+nc: 5
+
+# class names
+names: ["person","wheelchair","push_wheelchair","walking_frame","crutches"]
