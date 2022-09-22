@@ -6,4 +6,4 @@ test: ../yolo_dataset/images/test/
 nc: 5
 
 # class names
-names: ["person","wheelchair","push_wheelchair","walking_frame","crutches"]
+names: ["Pessoa","Cadeira_rodas","Cadeira_rodas_Aux","Andador","Muletas"]
