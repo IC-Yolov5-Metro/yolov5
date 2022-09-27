@@ -1,4 +1,10 @@
+#CLEAR ML
+from clearml import Task
+task = Task.init(project_name='great project', task_name='best experiment')
+
+
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
+
 """
 Train a YOLOv5 model on a custom dataset.
 Models and datasets download automatically from the latest YOLOv5 release.
