@@ -1,0 +1,9 @@
+train: ./Frey_data_set/images/train/ 
+val:  ./Frey_data_set/images/val/
+test: ./Frey_data_set/images/test/
+
+# number of classes
+nc: 5
+
+# class names
+names: ["Pessoa","Cadeirante","Cadeirante_Aux","Andador","Muletas"]

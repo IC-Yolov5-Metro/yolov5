@@ -1,0 +1,9 @@
+train: ./metro_data_set/images/train/ 
+val:  ./metro_data_set/images/val/
+test: ./metro_data_set/images/test/
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Cadeira de Rodas"]

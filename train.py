@@ -1,6 +1,4 @@
-#CLEAR ML
-from clearml import Task
-task = Task.init(project_name='great project', task_name='best experiment')
+
 
 
 # YOLOv5 🚀 by Ultralytics, GPL-3.0 license
